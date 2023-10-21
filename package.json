@@ -1,6 +1,8 @@
 {
   "name": "courses_ts",
   "version": "1.0.0",
+  "private": true,
+  "homepage": "https://IrynaSokolovska.github.io/goit-react-hw-08-phonebook/",
   "description": "",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
