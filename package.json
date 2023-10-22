@@ -1,9 +1,9 @@
 {
-  "name": "courses_ts",
+  "name": "goit-typescript-hw-01",
   "version": "1.0.0",
-  "private": true,
-  "homepage": "https://IrynaSokolovska.github.io/goit-typescript-hw-01/",
+  "homepage": "https://IrynaSokolovska.github.io/goit-react-hw-08-phonebook/",
   "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
   },
